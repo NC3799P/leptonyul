@@ -1,7 +1,4 @@
-*.lnk
-*.exe
-*.sym
-*.gb
-*.map
-*.obj
-*.dll
+node_modules/
+dist/
+.env
+*.log
